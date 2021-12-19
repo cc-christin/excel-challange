@@ -31,3 +31,8 @@ A farther look into successfully funded Kickstarter campaigns to see the resulti
 Possible Tables/Graphs 
 As previously state, a line graph comparing 100% successful or 100% failed campaigns with their respective initial funding goals might allow for more insights to be made in regards to weather initial funding goals (barrier to entry) make Kickstarter a more relevant funding option for some project categories over others. 
 A column chart breaking down funding pledged per day might also be insightful in gaining understanding for the kind of traction that would result in a successful Kickstarter campaign. 
+
+Statistical Analysis 
+While the mean is usually a good measure of central tendency, in these particular datasets (both successful and failed outcomes) the existence of outliers makes the median more useful as a representative summary. 
+The variance for successful outcomes is 712,841, while the variance for failed outcomes is 3,773. Which is reasonable to conclude that there are more variability among successful outcomes than failed outcomes.  
+
